@@ -29,6 +29,8 @@ cheatsheet for git
 
 ```  git reset --keep <commit>``` Reset your HEAD pointer to a previous commit & preserve uncommitted local changes
 
+``` git reset --soft HEAD~1 ``` Reset your HEAD pointer to a previous commit & stage your last commit changes in working tree.
+
 
 ## Cleanup. 	
 	
